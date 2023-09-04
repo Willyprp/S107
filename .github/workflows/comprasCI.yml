@@ -29,6 +29,7 @@ jobs:
         cache: maven
     - name: Testes com Maven
       run: |
-        cd Aula1\Aula-GitHub-Actions
+        cd Aula1
+        cd Aula-GitHub-Actions
         mvn clean test site
    
