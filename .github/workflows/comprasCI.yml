@@ -37,7 +37,7 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: relatorio-testes
-        path: Aula1/gAula-GitHub-Actions/target/site/
+        path: Aula1/Aula-GitHub-Actions/target/site/
 
   
   empacotar:
