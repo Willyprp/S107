@@ -35,6 +35,8 @@ jobs:
 
   
   empacotar:
+
+    needs: test
     runs-on: ubuntu-latest
 
     steps:
