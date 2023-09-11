@@ -69,8 +69,8 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      EMAIL_LIST: willyprp@gmail.com
-      
+      EMAIL_LIST: goncalves.lucas15@outlook.com
+
     steps:
     - name: Executa comandos
       uses: actions/checkout@v3
