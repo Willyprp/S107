@@ -62,5 +62,5 @@ jobs:
     - name: Upload de artefatos
       uses: actions/upload-artifact@v3
       with:
-        name: relatorio-testes
+        name: JAR
         path: Aula1/Aula-GitHub-Actions/target/*.jar
