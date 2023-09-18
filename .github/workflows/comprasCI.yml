@@ -69,7 +69,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      EMAIL_LIST:
+      EMAIL_LIST: willyprpytb@gmail.com
 
     steps:
     - name: Executa comandos
